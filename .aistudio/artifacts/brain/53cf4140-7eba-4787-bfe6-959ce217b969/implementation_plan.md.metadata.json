@@ -1,0 +1,6 @@
+{
+  "summary": "Plano de arquitetura e implementação da aplicação de construção, visualização, edição e exportação de heredogramas clínicos e árvores genealógicas. Contempla motor de layout automático em gerações, persistência IndexedDB, importação/exportação GEDCOM 5.5.1 e JSON, renderização SVG interativa, destaque de linhagens e exportação SVG/PNG/PDF.",
+  "updatedAt": "2026-10-17T00:02:45.537499918Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

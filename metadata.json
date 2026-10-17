@@ -1,0 +1,6 @@
+{
+  "name": "HeredoStudio - Construtor de Heredogramas e Genealogia",
+  "description": "Aplicação profissional para construir, editar, visualizar e exportar heredogramas clínicos e árvores genealógicas com layout automático por gerações, suporte a GEDCOM 5.5.1, JSON, LaTeX e PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
